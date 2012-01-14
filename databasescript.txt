@@ -1,2 +1,3 @@
 drop table tablename
 create table command
+...
